@@ -21,6 +21,9 @@ This real estate website allows agents to explore and manage property listings. 
 **Demo Link of the website** 
 - [CLICK HERE](https://propertypal-umkn.onrender.com/)
 
+## Video
+[Youtube link](https://youtu.be/ZBpqsjHqzDs)
+
 ## Output
 
 ![Screenshot (43)](https://github.com/user-attachments/assets/7c47ba34-7cbb-437a-bb46-6ff89def0048)
