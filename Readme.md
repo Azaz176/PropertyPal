@@ -21,3 +21,16 @@ This real estate website allows agents to explore and manage property listings. 
 **Demo Link of the website** 
 - [CLICK HERE](https://propertypal-umkn.onrender.com/)
 
+## Output
+
+![Screenshot (43)](https://github.com/user-attachments/assets/7c47ba34-7cbb-437a-bb46-6ff89def0048)
+![Screenshot (45)](https://github.com/user-attachments/assets/caaf436d-dca5-4b61-8f8d-d8d02a08ca8b)
+![Screenshot (46)](https://github.com/user-attachments/assets/ae960baf-a07e-42fc-9cd8-6827c64694bb)
+![Screenshot (47)](https://github.com/user-attachments/assets/57828139-5974-445f-89f8-26504660f31d)
+![Screenshot (48)](https://github.com/user-attachments/assets/49d3f34d-f729-4a8a-ae6a-d1228dedd24f)
+![Screenshot (49)](https://github.com/user-attachments/assets/479ce822-ed4f-46ef-996d-2b6d6c5baa01)
+![Screenshot (50)](https://github.com/user-attachments/assets/5b919811-087a-44f1-bf4e-2df255a036fc)
+![Screenshot (51)](https://github.com/user-attachments/assets/498667f6-2ed5-4eb9-b9ee-6acb80bc30e9)
+![Screenshot (52)](https://github.com/user-attachments/assets/9525e45f-df68-40be-b4d9-94e5f4700916)
+![Screenshot (44)](https://github.com/user-attachments/assets/d4e71198-bb7d-4818-a6ec-46ff27aa6d12)
+
